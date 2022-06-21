@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "HtmlToPdf": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30036,
+      "useSSL": false
+    }
+  }
+}
