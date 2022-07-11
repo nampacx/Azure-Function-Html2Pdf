@@ -1,0 +1,12 @@
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\DinkToPdf.dll
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\projects\projects\private\github\Azure-Function-Html2Pdf\src\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
