@@ -7,8 +7,8 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["HtmlToPdf/HtmlToPdf.csproj", "HtmlToPdf/"]
-RUN dotnet restore "HtmlToPdf/HtmlToPdf.csproj"
+COPY ["HtmlToPdf.csproj", "HtmlToPdf/"]
+RUN dotnet restore "HtmlToPdf.csproj"
 COPY . .
 WORKDIR "/src/HtmlToPdf"
 RUN dotnet build "HtmlToPdf.csproj" -c Release -o /app/build

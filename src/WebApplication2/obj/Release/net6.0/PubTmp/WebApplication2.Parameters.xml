@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="mikoko-htmltopdf" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\projects\\projects\\private\\github\\Azure-Function-Html2Pdf\\src\\WebApplication2\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
